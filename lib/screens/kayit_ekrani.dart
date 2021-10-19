@@ -37,7 +37,7 @@ class _KayitEkraniState extends State<KayitEkrani> {
   ];
 
   List<String> bolumMuhendislik = [
-    "BİLGİSAYARR MÜHENDİSLİĞİ",
+    "BİLGİSAYAR MÜHENDİSLİĞİ",
     "ELEKTRİK MÜHENDİSLİĞİ",
     "JEOLOJİ MÜHENDİSLİĞİ",
     "ELEKTRONİK VE HABERLEŞME MÜHENDİSLİĞİ",
