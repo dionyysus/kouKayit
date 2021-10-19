@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253789131754",
+    "project_id": "koubasvurukayit",
+    "storage_bucket": "koubasvurukayit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253789131754:android:39a231d5bd46e9cc455893",
+        "android_client_info": {
+          "package_name": "com.example.basvurukayit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253789131754-h4etqiusfva9f3mdoegrro66pnsku09l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Z4gwhu3fmZAuAm9pgrrVyEl77VYbYaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253789131754-h4etqiusfva9f3mdoegrro66pnsku09l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
