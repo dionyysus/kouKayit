@@ -30,7 +30,7 @@ class _KayitEkraniState extends State<KayitEkrani> {
   List<String> dolacakBolum = [];
   List<String> fakulteler = [
     'MÜHENDİSLİK FAKÜLTESİ',
-    'EĞİTİM FAKÜLTESİ',
+    'EĞİTİMM FAKÜLTESİ',
     'GÜZEL SANATLAR FAKÜLTESİ',
     'İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ',
     'İLETİŞİM FAKÜLTESİ'
