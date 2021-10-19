@@ -37,7 +37,7 @@ class _KayitEkraniState extends State<KayitEkrani> {
   ];
 
   List<String> bolumMuhendislik = [
-    "BİLGİSAYAR MÜHENDİSLİĞİ",
+    "BİLGİSAYARR MÜHENDİSLİĞİ",
     "ELEKTRİK MÜHENDİSLİĞİ",
     "JEOLOJİ MÜHENDİSLİĞİ",
     "ELEKTRONİK VE HABERLEŞME MÜHENDİSLİĞİ",
@@ -587,7 +587,7 @@ class _KayitEkraniState extends State<KayitEkrani> {
     }
 
     void _selectedValue(value) {
-      if(value == "MÜHENDİSLİK FAKÜLTESİ"){
+      if (value == "MÜHENDİSLİK FAKÜLTESİ") {
         fakulteler = [];
         yerlestirMuhendislik();
       }
